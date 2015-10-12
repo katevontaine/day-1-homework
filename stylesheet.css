@@ -1,0 +1,107 @@
+*{
+  padding-top:10px;
+  padding-bottom: 10px;
+  background-color: #B0B0B0;
+}
+#harpa{
+  width:800px;
+  margin: 0auto;
+  border-radius: 50px;
+}
+h1{
+  font-size:35px;
+  font-family:sans-serif;
+  font-weight: bold;
+  color:black;
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-size:25px;
+  font-family:sans-serif;
+  color:black;
+}
+p{
+  text-align: center;
+  font-size: 18px;
+  font-family: sans-serif;
+  color:white;
+}
+
+.blog{
+  text-align: left;
+  padding:0px 50px 0px 50px;
+}
+ul{
+  text-align: center;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  list-style-type: none;
+  color:white;
+  border-right: 1px solid white;
+
+}
+.gallery img{
+  display: inline;
+  border-radius: 50px;
+  max-width: 400px;
+  max-height: 500px;
+
+}
+
+.nav{
+  align-items: center;
+  display: inline;
+  color:blue;
+  padding:0px;
+  text-align: center;
+  display:block;
+  text-decoration: none;
+  hover:grey;
+  border-right: 1px solid white;
+}
+.nav a{
+    hover:grey;
+    border-right: 1px solid white;
+}
+
+a{
+  font-style: italic;
+  font-family: Arial;
+  text-decoration: none;
+  border-left: 1px solid white;
+  padding: 0 10px 0 10px;
+}
+a:hover{
+  color: #66CCFF;
+  font-weight: bold;
+}
+a:visited {
+    color: #66CCFF;
+    font-weight: lighter;
+}
+.mainpic img{
+  display: inline;
+  border-radius: 50px;
+  max-width: 400px;
+  max-height: 300px;
+}
+.gallery{
+  margin:0auto;
+  padding: 0 0 0 40px;
+  width: 90%;
+}
+.gallerytwo img{
+  margin: 0auto;
+  display: inline;
+  border-radius: 50px;
+  max-width: 400px;
+  max-height: 500px;
+  width: 90%;
+}
+.headerpic{
+  width: 100%;
+  max-height: 500px;
+}
